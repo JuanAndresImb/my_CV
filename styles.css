@@ -1,0 +1,105 @@
+
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background:linear-gradient(to top ,#C3F7E8,#ffffff2d);
+}
+h2{
+  font-weight: lighter;
+  opacity: 70%;
+border-bottom-style:ridge;
+border-bottom-color:#C3F7E8;
+}
+p{
+  
+}
+header{
+  z-index: 100;
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+nav {
+  background-image: url("pixel_ciel.jpg");
+  color: rgb(255, 255, 255);
+  padding: 40px;
+  font-family:'VT323', sans-serif;
+  font-size: 18pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  opacity: 90%;  
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+nav ul li {
+  display: inline;
+}
+nav ul li a {
+  color: #C3F7E8;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-style:outset;
+  
+}
+nav ul li a:hover {
+  background-color: #ffffff2d;
+  border-radius: 4px;
+}
+.profil_pic {
+  width: 200px;
+  height: auto;
+  border-radius: 60%;
+  display: block;
+  margin: auto;
+  z-index: 1000%;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  padding: 50px;
+}
+.content_style{
+  border-radius: 15px;
+  padding: 35px;
+  padding-top: 10px;
+  margin-right: 40px;
+  width: auto;
+  background-color: #85ecea;
+  text-align: auto;
+  color:#1873D8;
+  font-family: 'Goldman',sans-serif;
+  font-size: larger;
+  font-weight: lighter;
+  letter-spacing: 15%;
+}
+.name  {
+  grid-area: 'name';
+  font-size: 80pt;
+  color: #1873D8;
+  font-family:'VT323', sans-serif;
+  font-weight:bolder;
+  margin: auto;
+  border-bottom-style: none;
+  
+
+}
+
+.about_me {
+
+}
+.abilities {
+}
+.skills {margin-bottom: 50px;
+}
+.learning_exp {
+}
+.work_exp {
+}
