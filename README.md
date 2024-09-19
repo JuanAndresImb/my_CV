@@ -11,7 +11,7 @@
 
 ## Lien GitHub Pages
 
-[Lien vers le site](https://juanandresimb.github.io/my-CV/) 
+[Lien vers le site](https://juanandresimb.github.io/my_CV/) 
 
 ## Quoi
 
