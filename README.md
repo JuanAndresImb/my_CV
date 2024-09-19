@@ -1,64 +1,51 @@
-# My Curriculum Vitae (CV)
+# Curriculum Vitae 💼
 
-This repository contains the code for my personal Curriculum Vitae (CV), which showcases my skills, abilities, and work experience.
+## Table des Matières
 
-## Table of Contents
+- [Lien GitHub Pages](#lien-github-pages)
+- [Quoi](#quoi)
+- [Qui](#qui)
+- [Quand](#quand)
+- [Comment](#comment)
+- [Pourquoi](#pourquoi)
 
-- [About Me](#about-me)
-- [Abilities](#abilities)
-- [Skills](#skills)
-- [Learning Experience](#learning-experience)
-- [Work Experience](#work-experience)
-- [Contact Information](#contact-information)
-- [Connect with Me](#connect-with-me)
+## Lien GitHub Pages
 
-## About Me
+[Lien vers le site](https://juanandresimb.github.io/my-CV/) 
 
-I am a dedicated professional transitioning from a career in the culinary arts to the technology sector. With a strong interest in blockchain, cryptocurrencies, finances, and geopolitics, I am committed to acquiring the necessary skills for success in this ever-evolving field.
+## Quoi
 
-## Abilities
+Curriculum Vitae est une page web développée pour structurer mon CV en utilisant le système de grilles de CSS. Le projet a pour but de pratiquer la mise en page avec CSS Grid tout en présentant mes expériences et compétences de manière professionnelle.
 
-- Strong problem-solving skills
-- Ability to work under pressure
-- Excellent team collaboration
-- Attention to detail
-- Adaptability and eagerness to learn
+### Fonctionnalités
 
-## Skills
+- 🧑‍💼 Présentation de mon parcours professionnel et académique.
+- 🛠️ Utilisation du système de grilles CSS pour organiser les informations.
+- 🌍 Déployé via GitHub Pages pour un accès facile.
 
-- Proficient in HTML, CSS, and JavaScript
-- Experience with Python and Java
-- Basic understanding of blockchain technology
-- Knowledge of cryptocurrency markets
-- Fluent in Spanish, French, and English
+## Qui
 
-## Learning Experience
+Juan GitHub: [JuanAndresImb](https://github.com/JuanAndresImb)  
+Passionné par les nouvelles technologies et en constante évolution dans le domaine du développement web.
 
-- Completed online courses in web development
-- Studied blockchain technology through self-paced learning platforms
-- Participated in a coding bootcamp focused on full-stack development
-- Ongoing studies in cybersecurity fundamentals
+## Quand
 
-## Work Experience
+- **Durée** : 120 min
+- **Date de début** : À définir
+- **Date limite** : À définir
 
-### Chef - Gourmet Restaurant
+## Comment
 
-- Managed a high-paced kitchen
-- Developed new recipes
-- Maintained quality control
-- Ensured customer satisfaction
+- **Technologies utilisées** : HTML, CSS (système de grilles)
+- **Stratégie de déploiement** : GitHub Pages
 
-### Freelance Web Developer
+## Pourquoi
 
-- Created and maintained websites for small businesses
-- Ensured responsive design and user-friendly interfaces
+Ce projet m'a permis de maîtriser l'utilisation des grilles CSS pour structurer visuellement des pages web et m'a offert l'opportunité de publier mon CV en ligne via GitHub Pages.
 
-## Contact Information
+## Ressources
 
-- Email: [j.imbaquingo@outlook.fr](mailto:j.imbaquingo@outlook.fr)
-- Phone: (123) 456-7890
+- [Grid Garden](https://cssgridgarden.com/)
+- [CSS Rules](https://developer.mozilla.org/fr/docs/Web/CSS)
+- [Grids Tutorial](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub
